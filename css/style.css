@@ -1,6 +1,7 @@
 .navbarbg {
   height: 55px;
   background-color: white;
+  border-color: #8c8c8c33 !important;
 }
 
 input.searche {
