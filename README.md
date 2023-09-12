@@ -2,14 +2,6 @@
 
 Bu proje, iş hayatının vazgeçilmez platformlarından biri olan Linkedin'in bir klonunu oluşturmayı hedeflemektedir. Linkedin, günümüzde iş arayanlar, işverenler ve profesyoneller arasında iletişimi kolaylaştıran bir sosyal ağdır. Bu projede, Kodluyoruz mühendisleri tarafından uzun uğraşlar sonucunda muhteşem bir Bootstrap Linkedin klonu geliştirilmiştir.
 
-## Özellikler
-
-- Kullanıcılar, profil oluşturabilir ve düzenleyebilir.
-- Kullanıcılar, deneyimlerini, eğitim bilgilerini ve yeteneklerini ekleyebilir.
-- Kullanıcılar, bağlantılarını yönetebilir ve diğer kullanıcılarla etkileşimde bulunabilir.
-- Kullanıcılar, iş ilanlarına başvurabilir ve işverenlerle iletişim kurabilir.
-- Kullanıcılar, gruplara katılabilir ve ilgi alanlarına göre içerikleri keşfedebilir.
-
 ## Kurulum
 
 1. Bu projeyi klonlayın:
