@@ -53,6 +53,8 @@ button.mediatext:hover {
 
 i {
   color: gray;
+}
+li a i {
   margin-top: 8px;
 }
 i:hover {
