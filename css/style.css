@@ -72,6 +72,8 @@ input.content::placeholder {
   background-image: url(../assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: auto;
+  padding-left: 30px;
+  padding-top: 3px;
 }
 
 div.card {
